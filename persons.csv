@@ -1,0 +1,131 @@
+person_id,name,age,gender
+1,Mahesh Babu,49,Male
+2,Prabhas,44,Male
+3,Ram Charan,39,Male
+4,Jr NTR,40,Male
+5,Allu Arjun,42,Male
+6,Ravi Teja,56,Male
+7,Chiranjeevi,69,Male
+8,Venkatesh Daggubati,60,Male
+9,Nagarjuna Akkineni,65,Male
+10,Vijay Deverakonda,35,Male
+11,Nithiin,39,Male
+12,Siddharth,44,Male
+13,Sharwanand,38,Male
+14,Rana Daggubati,39,Male
+15,Bellamkonda Sreenivas,31,Male
+16,Gopichand,44,Male
+17,Sudheer Babu,42,Male
+18,Adivi Sesh,37,Male
+19,Nikhil Siddharth,39,Male
+20,Kalyan Ram,42,Male
+21,Varun Tej,33,Male
+22,Aadhi Pinisetty,37,Male
+23,Navdeep,38,Male
+24,Sunil,49,Male
+25,Ali,57,Male
+26,Brahmanandam,66,Male
+27,Posani Krishna Murali,64,Male
+28,Nagineedu,74,Male
+29,Rahul Ramakrishna,36,Male
+30,Vennela Kishore,44,Male
+31,Tanikella Bharani,68,Male
+32,Srinivasa Reddy,52,Male
+33,Praveen,43,Male
+34,Sapthagiri,39,Male
+35,Satya,46,Male
+36,Prakash Raj,58,Male
+37,Sonu Sood,50,Male
+38,Mukesh Rishi,62,Male
+39,Ashish Vidyarthi,60,Male
+40,Nassar,65,Male
+41,Sayaji Shinde,63,Male
+42,Pradeep Rawat,65,Male
+43,Kelly Dorjee,69,Male
+44,Sharad Kelkar,44,Male
+45,Rao Ramesh,55,Male
+46,Jayasudha,67,Female
+47,Revathi,60,Female
+48,Rohini,60,Female
+49,Samantha Ruth Prabhu,37,Female
+50,Kajal Aggarwal,38,Female
+51,Anushka Shetty,42,Female
+52,Tamannaah Bhatia,34,Female
+53,Trisha Krishnan,41,Female
+54,Pooja Hegde,33,Female
+55,Rakul Preet Singh,33,Female
+56,Shruti Haasan,38,Female
+57,Nayanthara,39,Female
+58,Rashmika Mandanna,28,Female
+59,Sai Pallavi,32,Female
+60,Keerthy Suresh,31,Female
+61,Krithi Shetty,23,Female
+62,Mrunal Thakur,31,Female
+63,Ritu Varma,31,Female
+64,Nabha Natesh,29,Female
+65,Payal Rajput,34,Female
+66,Mehreen Pirzada,29,Female
+67,Nivetha Thomas,26,Female
+68,Sreeleela,22,Female
+69,Niddhi Agerwal,30,Female
+70,Aishwarya Rajesh,36,Female
+71,Lavanya Tripathi,33,Female
+72,Eesha Rebba,30,Female
+73,Hebah Patel,30,Female
+74,Pragya Jaiswal,30,Female
+75,Catherine Tresa,34,Female
+76,Raashi Khanna,32,Female
+77,Divyansha Kaushik,27,Female
+78,Sree Mukhi,30,Female
+79,Amyra Dastur,30,Female
+80,Priyanka Arul Mohan,28,Female
+81,Meenakshi Chaudhary,24,Female
+82,Dimple Hayathi,27,Female
+83,Anasuya Bharadwaj,37,Female
+84,Ritu Varma,31,Female
+85,S. S. Rajamouli,51,Male
+86,Trivikram Srinivas,53,Male
+87,Sukumar,52,Male
+88,Harish Shankar,43,Male
+89,Boyapati Srinu,51,Male
+90,Puri Jagannadh,55,Male
+91,Koratala Siva,49,Male
+92,Vamsi Paidipally,40,Male
+93,Sandeep Vanga,40,Male
+94,Anil Ravipudi,41,Male
+95,Gopichand Malineni,43,Male
+96,Sreenu Vaitla,50,Male
+97,Dasaradh,55,Male
+98,Chandoo Mondeti,38,Male
+99,Nag Ashwin,36,Male
+100,VI Anand,46,Male
+101,Teja,52,Male
+102,Deva Katta,49,Male
+103,Krishna Vamsi,55,Male
+104,Gunasekhar,59,Male
+105,K. Raghavendra Rao,79,Male
+106,E. V. V. Satyanarayana,71,Male
+107,B. Gopal,66,Male
+108,A. Karunakaran,54,Male
+109,Karunakara,48,Male
+110,Mahi V Raghav,43,Male
+111,Maruthi,41,Male
+112,Parasuram Petla,43,Male
+113,Merlapaka Gandhi,45,Male
+114,Venky Kudumula,40,Male
+115,Sriram Adittya,40,Male
+116,Hanu Raghavapudi,41,Male
+117,Tharun Bhascker,34,Male
+118,Vivek Athreya,37,Male
+119,Kishore Tirumala,47,Male
+120,Praveen Sattaru,44,Male
+121,G. Nageswara Reddy,56,Male
+122,Santhosh Srinivas,45,Male
+123,Ramesh Varma,48,Male
+124,Sujith,43,Male
+125,Mohan Raja,46,Male
+126,Santosh Sivan,59,Male
+127,S. V. Krishna Reddy,65,Male
+128,Ravi Babu,52,Male
+129,Srivas,42,Male
+130,Geetha Krishna,49,Male

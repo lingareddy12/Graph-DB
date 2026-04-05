@@ -1,0 +1,309 @@
+movie_id,name,release_date,revenue,genre
+1,Okkadu,2003-07-18,450000000,Action
+2,Arjun,2004-01-14,300000000,Action
+3,Athadu,2005-10-13,550000000,Action
+4,Pokiri,2006-04-28,1200000000,Action
+5,Sainikudu,2006-01-12,400000000,Action
+6,Chirutha,2007-10-01,350000000,Action
+7,Jalsa,2008-01-10,550000000,Action
+8,Magadheera,2009-07-31,1500000000,Fantasy Action
+9,Brindavanam,2010-10-25,500000000,Romantic Action
+10,Dookudu,2011-09-09,1200000000,Action Comedy
+11,Businessman,2012-01-12,800000000,Action
+12,Eega,2012-07-06,1100000000,Fantasy
+13,Julayi,2012-08-09,700000000,Action Comedy
+14,Gabbar Singh,2012-04-11,650000000,Action Comedy
+15,Baadshah,2013-07-04,900000000,Action Comedy
+16,Naayak,2013-04-12,600000000,Action
+17,Race Gurram,2014-04-11,1400000000,Action Comedy
+18,Temper,2015-01-22,900000000,Action
+19,Bahubali: The Beginning,2015-07-10,6500000000,Epic Action
+20,S/O Satyamurthy,2015-04-09,550000000,Family Drama
+21,Srimanthudu,2015-08-07,1200000000,Drama
+22,Nannaku Prematho,2016-01-14,1000000000,Action
+23,Sardaar Gabbar Singh,2016-04-08,500000000,Action Comedy
+24,Bahubali 2: The Conclusion,2017-04-28,17000000000,Epic Action
+25,Khaidi No. 150,2017-01-11,2000000000,Action
+26,Fidaa,2017-07-21,450000000,Romantic Drama
+27,Mersal,2017-10-18,1200000000,Action
+28,DJ: Duvvada Jagannadham,2017-06-23,1100000000,Action Comedy
+29,Spyder,2017-09-27,1300000000,Thriller
+30,Jai Lava Kusa,2017-09-21,1000000000,Action
+31,Rangasthalam,2018-03-30,1500000000,Period Drama
+32,Agnyaathavaasi,2018-01-10,1000000000,Action
+33,F2: Fun and Frustration,2019-01-12,1300000000,Comedy
+34,Maharshi,2019-05-09,1100000000,Drama
+35,Saaho,2019-08-30,5000000000,Action Thriller
+36,Taxiwaala,2018-11-17,400000000,Supernatural Thriller
+37,Dear Comrade,2019-07-26,400000000,Romantic Drama
+38,Arjun Reddy,2017-08-25,500000000,Romantic Drama
+39,Geetha Govindam,2018-08-15,1000000000,Romantic Comedy
+40,Bheeshma,2020-02-21,600000000,Romantic Comedy
+41,Ala Vaikunthapurramuloo,2020-01-12,2000000000,Action Drama
+42,Krack,2021-01-09,800000000,Action
+43,Vakeel Saab,2021-04-09,1200000000,Courtroom Drama
+44,Pushpa: The Rise,2021-12-17,3650000000,Action Drama
+45,RRR,2022-03-25,12000000000,Period Action
+46,Radhe Shyam,2022-03-11,2000000000,Romantic Drama
+47,Acharya,2022-05-29,600000000,Action
+48,Liger,2022-08-25,700000000,Sports Action
+49,Sita Ramam,2022-08-05,2500000000,Romantic Drama
+50,Karthikeya 2,2022-08-13,1000000000,Mythological Thriller
+51,Bimbisara,2022-08-05,400000000,Fantasy Action
+52,Vikrant Rona,2022-07-28,700000000,Action Fantasy
+53,Waltair Veerayya,2023-01-12,3000000000,Action Comedy
+54,Veera Simha Reddy,2023-01-12,1200000000,Action
+55,Tu Jhoothi Main Makkaar,2023-03-08,1600000000,Romantic Comedy
+56,Dasara,2023-03-30,1000000000,Period Drama
+57,Kisi Ka Bhai Kisi Ki Jaan,2023-04-21,1100000000,Action Comedy
+58,Adipurush,2023-06-16,2000000000,Mythological
+59,Jawan,2023-09-07,7200000000,Action Thriller
+60,Salaar,2023-12-22,3000000000,Action
+61,Pushpa 2: The Rule,2024-12-05,18000000000,Action Drama
+62,Devara,2024-10-11,2000000000,Action Drama
+63,Guntur Kaaram,2024-01-12,600000000,Family Drama
+64,Hanu-Man,2024-01-12,2000000000,Superhero
+65,Tillu Square,2024-04-12,700000000,Comedy
+66,Kalki 2898 AD,2024-06-27,6500000000,Science Fiction
+67,The Greatest of All Time,2024-08-05,1800000000,Action
+68,Singham Returns,2024-08-15,1800000000,Action
+69,Stree 2,2024-08-15,6400000000,Horror Comedy
+70,Lucky Baskhar,2024-10-31,2000000000,Thriller
+71,Game Changer,2025-01-10,1200000000,Action Drama
+72,Thandel,2025-02-07,900000000,Drama
+73,OG,2025-04-01,1500000000,Action
+74,Dragon,2025-04-10,800000000,Action
+75,Okkadu,2003-07-18,450000000,Action
+76,Simhadri,2003-11-07,500000000,Action
+77,Nuvvu Nenu,2001-07-27,200000000,Romantic
+78,Nuvve Kavali,2000-12-22,180000000,Romantic
+79,Anandam,2004-08-20,180000000,Romantic
+80,Manmadhudu,2002-07-04,350000000,Romantic Comedy
+81,Nee Sneham,2002-01-01,130000000,Romantic
+82,Varsham,2004-07-07,300000000,Action
+83,Chatrapathi,2005-06-10,400000000,Action
+84,Bommarillu,2006-10-20,450000000,Romantic Drama
+85,Happy Days,2007-12-21,250000000,Drama
+86,Kantri,2008-07-11,350000000,Action
+87,Aarya,2004-10-08,300000000,Romantic Action
+88,Aarya 2,2009-10-02,350000000,Romantic Action
+89,Shankar Dada Zindabad,2007-01-11,300000000,Action Comedy
+90,Stalin,2006-04-14,250000000,Action
+91,Rakhi,2006-11-24,200000000,Action
+92,Tagore,2003-07-18,400000000,Action
+93,Indra,2002-04-14,600000000,Action
+94,Murari,2001-11-02,250000000,Fantasy Drama
+95,Takkari Donga,2002-10-04,150000000,Comedy
+96,Malliswari,2004-12-02,200000000,Romantic Drama
+97,Nuvvu Naku Nachchav,2001-12-08,160000000,Romantic Comedy
+98,Nee Kosam,2000-06-02,100000000,Romantic
+99,Manasanta Nuvve,2001-02-08,180000000,Romantic
+100,Nuvve Nuvve,2002-04-03,200000000,Romantic
+101,Nijam,2003-04-14,280000000,Action
+102,Oke Okkadu,2003-04-11,200000000,Action
+103,Yuvaraju,2002-04-11,180000000,Romantic
+104,Bhadra,2005-03-18,350000000,Action
+105,Mass,2004-04-12,300000000,Action
+106,Naa Autograph,2004-04-02,250000000,Drama
+107,Subhanallah,2001-01-14,120000000,Romantic
+108,Ranam,2006-01-01,200000000,Action
+109,Sye,2004-08-06,300000000,Sports Drama
+110,Allari,2002-07-19,200000000,Comedy
+111,Senapathi,2004-09-10,180000000,Action
+112,Anveshana,2004-12-10,150000000,Thriller
+113,Vikramarkudu,2006-01-13,550000000,Action
+114,Tulasi,2007-01-11,350000000,Romantic Action
+115,Kick,2009-04-03,500000000,Action Comedy
+116,Don,2007-08-17,300000000,Action
+117,Parugu,2008-01-13,200000000,Romantic Drama
+118,Khaleja,2010-09-24,300000000,Action
+119,Badrinath,2011-05-13,450000000,Action
+120,Julayi,2012-08-09,700000000,Action Comedy
+121,Seethamma Vakitlo Sirimalle Chettu,2013-01-11,600000000,Family Drama
+122,Attarintiki Daredi,2013-10-09,1500000000,Family Drama
+123,Son of Satyamurthy,2015-04-09,550000000,Family Drama
+124,Katamarayudu,2017-03-24,450000000,Action
+125,Agnyaathavaasi,2018-01-10,1000000000,Action
+126,Aravinda Sametha Veera Raghava,2018-10-11,800000000,Action Drama
+127,Vinaya Vidheya Rama,2019-01-16,500000000,Action
+128,Sarileru Neekevvaru,2020-01-11,2000000000,Action
+129,Sarkaru Vaari Paata,2022-05-12,2000000000,Action
+130,Bhimla Nayak,2022-02-25,1500000000,Action Comedy
+131,Bangarraju,2022-01-14,700000000,Fantasy Comedy
+132,Laal Singh Chaddha,2022-08-11,600000000,Drama
+133,Godfather,2022-10-05,1200000000,Political Action
+134,Waltair Veerayya,2023-01-12,3000000000,Action Comedy
+135,Bhola Shankar,2023-08-11,300000000,Action
+136,Bro,2023-07-28,400000000,Fantasy Comedy
+137,OG,2025-04-01,1500000000,Action
+138,Uppena,2021-02-12,600000000,Romantic Drama
+139,Love Story,2021-09-24,500000000,Romantic Drama
+140,Ante Sundaraniki,2022-06-10,500000000,Romantic Comedy
+141,Dhamaka,2022-09-23,400000000,Action Comedy
+142,The Family Star,2024-04-05,500000000,Family Drama
+143,F3: Fun and Frustration,2022-05-27,600000000,Comedy
+144,Aagadu,2014-09-10,700000000,Action Comedy
+145,Srimanthudu,2015-08-07,1200000000,Drama
+146,Brahmotsavam,2016-05-20,400000000,Family Drama
+147,Spyder,2017-09-27,1300000000,Thriller
+148,Bharat Ane Nenu,2018-04-20,1600000000,Political Drama
+149,Maharshi,2019-05-09,1100000000,Drama
+150,Sarileru Neekevvaru,2020-01-11,2000000000,Action
+151,Mirchi,2013-02-01,600000000,Action
+152,Julayi,2012-08-09,700000000,Action Comedy
+153,Rebel,2012-05-01,200000000,Action
+154,Legend,2014-08-28,500000000,Action
+155,Dictator,2016-01-08,450000000,Action
+156,Dwaraka,2017-07-21,350000000,Action
+157,PSV Garuda Vega,2017-11-03,300000000,Action Thriller
+158,Jai Lava Kusa,2017-09-21,1000000000,Action
+159,118,2019-02-22,300000000,Thriller
+160,Disco Raja,2020-01-24,200000000,Science Fiction
+161,Krack,2021-01-09,800000000,Action
+162,Khiladi,2022-02-11,400000000,Action Thriller
+163,Ramarao On Duty,2022-06-17,300000000,Action Thriller
+164,Tiger Nageswara Rao,2023-10-20,1200000000,Action
+165,Eagle,2024-03-07,400000000,Action Thriller
+166,Mr. Bachchan,2024-08-01,250000000,Action Comedy
+167,Kanche,2015-10-22,300000000,Period War Drama
+168,Rudhramadevi,2015-10-09,700000000,Period Action
+169,Baahubali: The Beginning,2015-07-10,6500000000,Epic Action
+170,Baahubali 2,2017-04-28,17000000000,Epic Action
+171,Savyasachi,2018-11-02,350000000,Thriller
+172,Shailaja Reddy Alludu,2018-09-21,350000000,Romantic Comedy
+173,Devadas,2018-10-27,300000000,Drama
+174,Majili,2019-04-05,400000000,Sports Drama
+175,Jersey,2019-04-19,350000000,Sports Drama
+176,Evaru,2019-08-15,350000000,Thriller
+177,Miss India,2020-11-05,200000000,Drama
+178,Sreekaram,2021-03-19,150000000,Social Drama
+179,Shyam Singha Roy,2021-12-24,800000000,Romantic Drama
+180,Pushpa: The Rise,2021-12-17,3650000000,Action Drama
+181,Ghani,2022-04-08,200000000,Sports
+182,Virata Parvam,2022-06-17,250000000,Period Drama
+183,Karthikeya 2,2022-08-13,1000000000,Mythological Thriller
+184,Bimbisara,2022-08-05,400000000,Fantasy Action
+185,Pakka Commercial,2022-07-01,250000000,Action Comedy
+186,Sir / Vaathi,2023-01-13,500000000,Social Drama
+187,Custody,2023-05-12,200000000,Action Thriller
+188,Mem Famous,2022-12-01,200000000,Comedy Drama
+189,Colour Photo,2020-11-06,200000000,Romantic Drama
+190,Padi Padi Leche Manasu,2018-12-07,200000000,Romantic Drama
+191,Ninnu Kori,2017-07-07,280000000,Romantic Drama
+192,Nannu Dochukunduvate,2018-09-14,200000000,Action Thriller
+193,Falaknuma Das,2019-10-04,200000000,Action
+194,Ranga Marthanda,2022-08-19,150000000,Drama
+195,Malli Raava,2017-04-14,200000000,Romantic Drama
+196,Ee Nagaraniki Emaindi,2018-08-10,200000000,Romantic Comedy
+197,Keshava,2017-06-02,200000000,Action Thriller
+198,Chi La Sow,2018-11-02,180000000,Romantic Comedy
+199,Pelli Choopulu,2016-08-19,260000000,Romantic Comedy
+200,Pellichoopulu,2016-08-19,260000000,Romantic Comedy
+201,Mahanati,2018-05-09,600000000,Biographical
+202,Awe!,2018-03-02,200000000,Anthology
+203,Pitta Kathalu,2021-02-19,150000000,Anthology
+204,Mathu Vadalara,2019-09-20,150000000,Thriller
+205,Uma Maheswara Ugra Roopasya,2020-11-27,150000000,Drama
+206,V,2020-09-05,200000000,Action Thriller
+207,Zombie Reddy,2021-02-05,150000000,Horror Comedy
+208,Krushi,2009-07-10,200000000,Action
+209,Orange,2010-12-24,300000000,Romantic Drama
+210,Naadu,2003-04-11,150000000,Action
+211,Adurs,2011-01-14,350000000,Action
+212,Dammu,2012-04-27,250000000,Action
+213,Racha,2012-04-06,500000000,Action
+214,Baadshah,2013-07-04,900000000,Action Comedy
+215,Yevadu,2014-05-09,500000000,Action
+216,Bruce Lee: The Fighter,2015-10-22,400000000,Action
+217,Dhruva,2016-12-09,350000000,Action Thriller
+218,Rangasthalam,2018-03-30,1500000000,Period Drama
+219,Vinaya Vidheya Rama,2019-01-16,500000000,Action
+220,Shankar Dada MBBS,2004-12-30,300000000,Comedy Drama
+221,Tagore,2003-07-18,400000000,Action
+222,Aadi,2002-07-11,250000000,Action
+223,Varsham,2004-07-07,300000000,Action
+224,Bangaram,2006-12-22,280000000,Action
+225,Naa Peru Surya Naa Illu India,2018-05-01,400000000,Action
+226,Naa Nuvve,2018-05-04,200000000,Thriller
+227,Maharshi,2019-05-09,1100000000,Drama
+228,Idhe Maa Katha,2023-08-25,200000000,Drama
+229,Manchi Rojulochaie,2023-10-13,300000000,Romantic Comedy
+230,Premalu,2024-02-09,800000000,Romantic Comedy
+231,Guntur Kaaram,2024-01-12,600000000,Family Drama
+232,HanuMan,2024-01-12,2000000000,Superhero
+233,Tillu Square,2024-04-12,700000000,Comedy
+234,Kalki 2898 AD,2024-06-27,6500000000,Science Fiction
+235,Devara,2024-10-11,2000000000,Action Drama
+236,Lucky Baskhar,2024-10-31,2000000000,Thriller
+237,Pushpa 2: The Rule,2024-12-05,18000000000,Action Drama
+238,Game Changer,2025-01-10,1200000000,Action Drama
+239,Thandel,2025-02-07,900000000,Drama
+240,Aakashavaani,2022-11-04,250000000,Romantic Drama
+241,Love Today,2022-11-04,500000000,Romantic Comedy
+242,Dil Raju Production No.1,2023-01-26,300000000,Action
+243,Liger,2022-08-25,700000000,Sports Action
+244,Khushi,2023-12-25,500000000,Romantic Comedy
+245,Dasara,2023-03-30,1000000000,Period Drama
+246,Mishan Impossible,2022-04-22,300000000,Action Comedy
+247,Ori Devuda,2022-11-11,200000000,Fantasy Comedy
+248,Jathi Ratnalu,2021-03-11,500000000,Comedy
+249,Gam Gam Ganesha,2023-09-08,200000000,Comedy
+250,Kotabommali P.S.,2023-10-27,250000000,Action Comedy
+251,Nenu Sailaja,2016-02-12,300000000,Romantic
+252,Sita,2019-04-05,250000000,Action
+253,Gang Leader,2019-09-13,350000000,Action Comedy
+254,Maestro,2021-10-14,200000000,Thriller
+255,Swathimuthyam,2023-09-22,400000000,Drama
+256,Guntur Kaaram,2024-01-12,600000000,Family Drama
+257,Samajavaragamana,2020-05-22,200000000,Drama
+258,Hit: The First Case,2020-11-20,200000000,Thriller
+259,Hit 2,2022-12-02,400000000,Thriller
+260,Ante Sundaraniki,2022-06-10,500000000,Romantic Comedy
+261,Bheeshma Parvam,2022-03-25,350000000,Action Drama
+262,Vikrama,2022-06-03,400000000,Action Thriller
+263,Ponniyin Selvan 1,2022-09-30,5000000000,Period Drama
+264,Ponniyin Selvan 2,2023-04-28,3000000000,Period Drama
+265,Adipurush,2023-06-16,2000000000,Mythological
+266,Jailer,2023-08-10,3500000000,Action
+267,Leo,2023-10-19,2600000000,Action Thriller
+268,Dunki,2023-12-21,2200000000,Drama Comedy
+269,Animal,2023-12-01,9000000000,Action Drama
+270,Rebel Moon Part One,2023-12-22,200000000,Science Fiction
+271,Tiger 3,2023-11-12,4500000000,Action Thriller
+272,The Kerala Story,2023-05-05,2500000000,Drama
+273,12th Fail,2023-10-27,800000000,Drama
+274,Sam Bahadur,2023-12-01,1200000000,Biographical
+275,Salaar,2023-12-22,3000000000,Action
+276,Hanuman,2024-01-12,2000000000,Superhero
+277,Fighter,2024-01-25,2000000000,Action
+278,Merry Christmas,2024-01-12,350000000,Thriller
+279,Shaitaan,2024-03-08,1200000000,Horror Thriller
+280,Yodha,2024-03-20,500000000,Action
+281,Bade Miyan Chote Miyan,2024-04-10,900000000,Action Comedy
+282,Aavesham,2024-04-11,1200000000,Action Comedy
+283,Maidaan,2024-04-10,700000000,Sports Drama
+284,Maharaj,2024-06-21,600000000,Historical Drama
+285,Vettaiyan,2024-10-10,1400000000,Action Drama
+286,Singham Again,2024-11-01,2500000000,Action
+287,Bhool Bhulaiyaa 3,2024-11-01,4500000000,Horror Comedy
+288,Pushpa 2 Reloaded,2025-01-17,20000000000,Action Drama
+289,Dragon,2025-04-10,800000000,Action
+290,OG,2025-04-01,1500000000,Action
+291,Thandel,2025-02-07,900000000,Drama
+292,Game Changer,2025-01-10,1200000000,Action Drama
+293,Kubera,2025-03-28,1500000000,Thriller
+294,Coolie,2025-05-01,0,Action
+295,Sankranthiki Vasthunam,2025-01-14,1500000000,Action Comedy
+296,Daaku Maharaaj,2025-01-12,1000000000,Action
+297,Bench,2025-02-14,300000000,Drama
+298,Max,2024-03-08,400000000,Action
+299,Naa Saami Ranga,2024-01-14,500000000,Action Comedy
+300,Ayalaan,2021-01-12,700000000,Science Fiction
+301,Alludu Adhurs,2021-01-14,300000000,Action Comedy
+302,Vakeel Saab,2021-04-09,1200000000,Courtroom Drama
+303,Red,2021-02-12,300000000,Thriller
+304,Love Story,2021-09-24,500000000,Romantic Drama
+305,Narappa,2021-07-20,300000000,Drama
+306,Maestro,2021-10-14,200000000,Thriller
+307,The Ghost,2022-10-05,300000000,Action
+308,Masooda,2022-10-07,200000000,Horror
